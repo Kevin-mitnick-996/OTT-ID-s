@@ -1,0 +1,114 @@
+header{
+  align-items:center;
+}
+
+.header_img{
+  height: 70px;
+  margin-left: 40px;
+}
+.btn_header{
+  margin-right: 50px;
+}
+.body{
+  background-color: rgb(235, 242, 255);
+}
+.img-1{
+  height: 100%;
+  width: 90%;
+}
+
+#sec-1{
+  margin: 5%;
+}
+.sec_1{
+  align-items: center;
+}
+
+#sec-2{
+  text-align: center;
+  justify-content: center;
+  margin: 10%;
+}
+
+#sec-3{
+  text-align: center;
+  justify-content: center;
+  margin: 5%;
+}
+
+#sec-4{
+  text-align: center;
+  justify-content: center;
+  margin: 5%;
+}
+
+#sec-5{
+  text-align: center;
+  justify-content: center;
+  margin: 5%;
+}
+
+#sec-6{
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  margin: 5%;
+}
+
+footer{
+  background-image: linear-gradient( to right, #ff512f 0%, #dd2476 51%, #ff512f 100% );
+}
+
+/* sec-4 */
+.restaurant1 {
+    height: 180px;
+    width: 250px;
+}
+.restaurant2 {
+    height: 260px;
+    width: 300px;
+}
+
+.top2{
+  display: flex;
+  align-items: baseline;
+  gap:5px;
+  margin-bottom: 5px;
+}
+
+.restaurant4{
+      height: 180px;
+      width: 250px;
+  }
+  .restaurant3 {
+      height: 260px;
+      width: 300px;
+  }
+
+  .bottom2{
+    display: flex;
+    gap:5px;
+    margin-bottom: 5px;
+  }
+
+  .sec_4{
+    align-items: center;
+  }
+
+.quotes{
+  position: absolute;
+}
+
+.sec_6{
+  background-image: url("images/quotes.jfif");
+  height: 300px;
+  width: 90%;
+  text-align: center;
+  color: white;
+}
+
+.footer_item{
+  color: Black;
+  align-items: center;
+  justify-content:center;
+}
